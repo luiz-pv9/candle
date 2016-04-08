@@ -1,0 +1,6 @@
+[package]
+name = "candle"
+version = "0.1.0"
+authors = ["Luiz Paulo <luiz.pv9@gmail.com>"]
+
+[dependencies]
